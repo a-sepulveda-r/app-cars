@@ -65,6 +65,4 @@ La base de datos en SQL Server se utiliza para almacenar información relacionad
 
 5. `Obtener 3 meses con más dinero en ventas`: Devuelve los tres meses con mayores ingresos en ventas, con formato (mes, año - monto).
 
-### Repositorio de GitHub
-
 El script SQL completo, incluyendo la estructura de la base de datos y los procedimientos almacenados, se encuentra en el [repositorio de GitHub](https://github.com/a-sepulveda-r/app-cars) en el archivo `newEntries.sql`.
