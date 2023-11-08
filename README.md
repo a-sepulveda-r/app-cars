@@ -14,16 +14,16 @@ El sistema de Rent a Car es una aplicación web desarrollada en React y estilada
 - Validación de información.
 - Almacenamiento local (Local Storage).
 - Versión móvil con solo el formulario.
-- [Repositorio de GitHub](https://github.com/a-sepulveda-r/crudapp-autos) para el código fuente.
+- [Repositorio de GitHub](https://github.com/a-sepulveda-r/app-cars) para el código fuente.
 
 ### Ejecución Local
 
 Para ejecutar el proyecto de forma local, sigue estos pasos:
 
-1. Clona el repositorio desde GitHub utilizando el siguiente enlace: [https://github.com/a-sepulveda-r/crudapp-autos.git](https://github.com/a-sepulveda-r/crudapp-autos.git).
+1. Clona el repositorio desde GitHub utilizando el siguiente enlace: [https://github.com/a-sepulveda-r/app-cars.git](https://github.com/a-sepulveda-r/app-cars.git).
 
    ```shell
-   git clone https://github.com/a-sepulveda-r/crudapp-autos.git
+   git clone https://github.com/a-sepulveda-r/app-cars.git
 
    ```
 
@@ -45,7 +45,7 @@ Para ejecutar el proyecto de forma local, sigue estos pasos:
 
 ### Despliegue
 
-Puedes ver el despliegue del proyecto en el siguiente enlace también: [https://a-sepulveda-r.github.io/crudapp-autos/](https://a-sepulveda-r.github.io/crudapp-autos/).
+Puedes ver el despliegue del proyecto en el siguiente enlace también: [https://a-sepulveda-r.github.io/app-cars/](https://a-sepulveda-r.github.io/app-cars/).
 
 ## Base de Datos SQL Server
 
@@ -67,4 +67,4 @@ La base de datos en SQL Server se utiliza para almacenar información relacionad
 
 ### Repositorio de GitHub
 
-El script SQL completo, incluyendo la estructura de la base de datos y los procedimientos almacenados, se encuentra en el [repositorio de GitHub](https://github.com/a-sepulveda-r/crudapp-autos) en el archivo `newEntries.sql`.
+El script SQL completo, incluyendo la estructura de la base de datos y los procedimientos almacenados, se encuentra en el [repositorio de GitHub](https://github.com/a-sepulveda-r/app-cars) en el archivo `newEntries.sql`.
